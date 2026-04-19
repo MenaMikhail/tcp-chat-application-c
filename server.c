@@ -1,4 +1,5 @@
 /*
+Programmer: Mena Mikhail
     code implements a basic client-server chat program using sockets and pthreads.
     Code sets up a basic chat server that allows multiple clients to connect,
     send messages, and receive messages from other connected clients.
