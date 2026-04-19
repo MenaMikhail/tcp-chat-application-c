@@ -1,4 +1,5 @@
 /* 
+Programmer: Mena Mikhail
    the code establishes a connection with the server, 
    allows users to send and receive messages, 
    and handles user join and leave notifications in a chat environment. 
