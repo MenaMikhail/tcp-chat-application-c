@@ -55,5 +55,19 @@ make
 - Add authentication system
 - Improve error handling and logging
 
+
+## 📊 Example
+
+Client 1:
+Enter your username: Mena
+=== Mena has joined the chat ===
+
+Client 2:
+Enter your username: John
+=== John has joined the chat ===
+
+Mena: Hello!
+John: Hi!
+
 ## 👤 Author
 Mena Mikhail
